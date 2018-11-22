@@ -1,7 +1,7 @@
 # msbd5001_individual
 kaggle competition
 
-## To run the code, pluse use do follow:
+## To run the code, pluse do follow:
 
 1. checkout all repository
 
